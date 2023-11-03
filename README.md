@@ -1,5 +1,10 @@
 # PlayerWeather
 
+[![Spigot](https://img.shields.io/badge/Spigot-Compatible-brightgreen)](https://www.spigotmc.org/)
+[![Java](https://img.shields.io/badge/Java-8%2B-blue)](https://www.java.com/)
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.20.2-orange)](https://www.minecraft.net/)
+
+
 ## Description
 
 The Minecraft Weather API Plugin is a Spigot plugin for Minecraft servers that allows players to easily access real-time weather information in the game. With this plugin, players can check the current weather conditions in their Minecraft world without needing to leave the game. This can be particularly useful for planning activities, such as farming, building, or simply enjoying the weather while playing.
