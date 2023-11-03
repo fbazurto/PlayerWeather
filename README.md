@@ -1,7 +1,7 @@
 # PlayerWeather
 
 [![Spigot](https://img.shields.io/badge/Spigot-Compatible-brightgreen)](https://www.spigotmc.org/)
-[![Java](https://img.shields.io/badge/Java-8%2B-blue)](https://www.java.com/)
+[![Java](https://img.shields.io/badge/Java-17%2B-blue)](https://www.java.com/)
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.20.2-orange)](https://www.minecraft.net/)
 
 
